@@ -3,6 +3,7 @@ public class Class01 {
 
         System.out.println("1.Calismam");
         System.out.println("v3");
+        System.out.println("Bugun hava yagisli");
 
     }
 }
